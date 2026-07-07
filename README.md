@@ -31,7 +31,8 @@ Building scalable web applications while exploring Machine Learning and Generati
 
 ## Featured Projects
 
-### 🩸 LifeFlow – Blood Donation & Emergency Finder
+### 🩸 LifeFlow – Blood Donation & Emergency Finder *(Team Project)*
+**Role:** Frontend Developer
 
 **Links:** [🌍 Live Demo](https://life-flow-steel.vercel.app) | [💻 GitHub](https://github.com/Nirmal22-12/micro-project)
 
